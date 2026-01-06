@@ -1,8 +1,0 @@
-
-streamlit
-pandas
-requests
- beautifulsoup4 
-google-genai
- google-generativeai
-
